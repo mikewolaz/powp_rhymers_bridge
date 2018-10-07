@@ -1,5 +1,5 @@
 package edu.kis.vh.nursery;
-
+// test
 public class defaultCountingOutRhymer {
 
 	private int[] NUMBERS = new int[12];
@@ -30,5 +30,5 @@ public class defaultCountingOutRhymer {
 							return -1;
 						return NUMBERS[total--];
 					}
-
+// testsstsetasdgargszrgaeth
 }
